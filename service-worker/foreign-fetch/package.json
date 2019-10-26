@@ -9,7 +9,7 @@
   "author": "Jeff Posnick <jeffy@google.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.17.1"
   },
   "engines": {
     "node": ">=6.5.0"
